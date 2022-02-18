@@ -1,0 +1,13 @@
+{
+    "product_url": "商品URL",
+    "ranking_page_urls": [
+        "xxxxxx",
+        "xxxxxx"
+    ],
+    "target_product_name": "商品名",
+    "to_address": [
+        "ランキングスクショを送りたいアドレス",
+        "ランキングスクショを送りたいアドレス"
+    ],
+    "target_rank": "~位以内(スクショを撮る基準になる順位 条件: 30以下の数字のみ許可)"
+}
